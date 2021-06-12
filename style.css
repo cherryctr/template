@@ -1,0 +1,32 @@
+/* START CSS WRAPPER  */
+.wrapper {
+    margin: auto;
+    width: 800px;
+    background-color: chartreuse;
+    height: 995px;
+}
+
+.wrapper .header {
+  
+    width: 800px;
+    background-color:coral;
+    height: 70px;
+}
+
+.wrapper .slider {
+    width: 800px;
+    background-color:black;
+    height: 250px;
+}
+
+.wrapper .content {
+    width: 800px;
+    background-color: brown ;
+    height: 630px;
+}
+
+.wrapper .footer {
+    width: 800px;
+    background-color: cyan ;
+    height: 70px;
+}
